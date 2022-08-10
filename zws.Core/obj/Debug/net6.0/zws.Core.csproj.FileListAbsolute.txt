@@ -1,0 +1,12 @@
+C:\backup\pythonnetdemo\zws.Core\obj\Debug\net6.0\zws.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\backup\pythonnetdemo\zws.Core\obj\Debug\net6.0\zws.Core.AssemblyInfoInputs.cache
+C:\backup\pythonnetdemo\zws.Core\obj\Debug\net6.0\zws.Core.AssemblyInfo.cs
+C:\backup\pythonnetdemo\zws.Core\obj\Debug\net6.0\zws.Core.csproj.CoreCompileInputs.cache
+C:\backup\pythonnetdemo\zws.Core\bin\Debug\net6.0\zws.Core.deps.json
+C:\backup\pythonnetdemo\zws.Core\bin\Debug\net6.0\zws.Core.dll
+C:\backup\pythonnetdemo\zws.Core\bin\Debug\net6.0\ref\zws.Core.dll
+C:\backup\pythonnetdemo\zws.Core\bin\Debug\net6.0\zws.Core.pdb
+C:\backup\pythonnetdemo\zws.Core\obj\Debug\net6.0\zws.Core.dll
+C:\backup\pythonnetdemo\zws.Core\obj\Debug\net6.0\ref\zws.Core.dll
+C:\backup\pythonnetdemo\zws.Core\obj\Debug\net6.0\zws.Core.pdb
+C:\backup\pythonnetdemo\zws.Core\obj\Debug\net6.0\zws.Core.csproj.AssemblyReference.cache
