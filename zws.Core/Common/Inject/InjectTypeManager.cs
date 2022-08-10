@@ -1,7 +1,7 @@
 ﻿using Microsoft.Extensions.DependencyInjection;
-using zws.Core.Abstract;
+using zws.Core.Abstract.Inject;
 
-namespace zws.Core.Common
+namespace zws.Core.Common.Inject
 {
     public static class InjectTypeManager
     {

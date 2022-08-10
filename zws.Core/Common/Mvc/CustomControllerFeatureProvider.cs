@@ -1,7 +1,7 @@
 ﻿using Microsoft.AspNetCore.Mvc.ApplicationParts;
 using Microsoft.AspNetCore.Mvc.Controllers;
 using System.Reflection;
-using zws.Core.Abstract;
+using zws.Core.Abstract.Mvc;
 
 namespace zws.Core.Common.Mvc
 {

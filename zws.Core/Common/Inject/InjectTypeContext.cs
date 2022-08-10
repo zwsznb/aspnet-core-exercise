@@ -1,11 +1,6 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using zws.Core.Abstract;
+﻿using zws.Core.Abstract.Inject;
 
-namespace zws.Core.Common
+namespace zws.Core.Common.Inject
 {
     public class InjectTypeContext
     {

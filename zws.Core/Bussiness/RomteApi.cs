@@ -1,4 +1,4 @@
-﻿using zws.Core.Abstract;
+﻿using zws.Core.Abstract.Mvc;
 using zws.Core.Common.Mvc;
 
 namespace zws.Core.Bussiness

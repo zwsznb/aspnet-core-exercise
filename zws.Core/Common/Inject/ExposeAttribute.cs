@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace zws.Core.Common
+namespace zws.Core.Common.Inject
 {
     public class ExposeAttribute : Attribute
     {

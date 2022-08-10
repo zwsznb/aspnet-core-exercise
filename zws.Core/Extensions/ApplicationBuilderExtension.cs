@@ -1,6 +1,6 @@
 ﻿using System.Reflection;
-using zws.Core.Common;
 using Microsoft.AspNetCore.Builder;
+using zws.Core.Common.Inject;
 
 namespace WebApplication2.Extensions
 {

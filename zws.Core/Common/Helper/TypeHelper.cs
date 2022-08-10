@@ -1,4 +1,4 @@
-﻿namespace zws.Core.Common
+﻿namespace zws.Core.Common.Helper
 {
     public static class TypeHelper
     {

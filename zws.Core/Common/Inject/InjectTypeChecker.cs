@@ -1,11 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using zws.Core.Abstract;
-
-namespace zws.Core.Common
+﻿namespace zws.Core.Common.Inject
 {
     public static class InjectTypeChecker
     {
