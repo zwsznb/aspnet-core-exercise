@@ -95,6 +95,11 @@ namespace zws.Core.Common.Mvc
         private string GetRequestMethod(ActionModel action)
         {
             var reqM = action.Attributes.OfType<RequestMethodAttribute>().ToList();
+            //不添加特性默认Get请求
+            if (reqM.Count == 0)
+            {
+                return RequestMethods.GET.ToString();
+            }
             return reqM.Last()._method.ToString();
         }
 
