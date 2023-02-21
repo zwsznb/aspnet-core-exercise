@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "zws.Test2/1.0.0": {
+        "dependencies": {
+          "zws.Core": "1.0.0"
+        },
+        "runtime": {
+          "zws.Test2.dll": {}
+        }
+      },
+      "zws.Core/1.0.0": {
+        "runtime": {
+          "zws.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "zws.Test2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "zws.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

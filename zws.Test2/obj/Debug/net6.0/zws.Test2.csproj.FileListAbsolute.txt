@@ -1,0 +1,15 @@
+W:\project\aspnet-core-exercise\zws.Test2\bin\Debug\net6.0\zws.Test2.deps.json
+W:\project\aspnet-core-exercise\zws.Test2\bin\Debug\net6.0\zws.Test2.dll
+W:\project\aspnet-core-exercise\zws.Test2\bin\Debug\net6.0\ref\zws.Test2.dll
+W:\project\aspnet-core-exercise\zws.Test2\bin\Debug\net6.0\zws.Test2.pdb
+W:\project\aspnet-core-exercise\zws.Test2\bin\Debug\net6.0\zws.Core.dll
+W:\project\aspnet-core-exercise\zws.Test2\bin\Debug\net6.0\zws.Core.pdb
+W:\project\aspnet-core-exercise\zws.Test2\obj\Debug\net6.0\zws.Test2.csproj.AssemblyReference.cache
+W:\project\aspnet-core-exercise\zws.Test2\obj\Debug\net6.0\zws.Test2.GeneratedMSBuildEditorConfig.editorconfig
+W:\project\aspnet-core-exercise\zws.Test2\obj\Debug\net6.0\zws.Test2.AssemblyInfoInputs.cache
+W:\project\aspnet-core-exercise\zws.Test2\obj\Debug\net6.0\zws.Test2.AssemblyInfo.cs
+W:\project\aspnet-core-exercise\zws.Test2\obj\Debug\net6.0\zws.Test2.csproj.CoreCompileInputs.cache
+W:\project\aspnet-core-exercise\zws.Test2\obj\Debug\net6.0\zws.Test2.csproj.CopyComplete
+W:\project\aspnet-core-exercise\zws.Test2\obj\Debug\net6.0\zws.Test2.dll
+W:\project\aspnet-core-exercise\zws.Test2\obj\Debug\net6.0\ref\zws.Test2.dll
+W:\project\aspnet-core-exercise\zws.Test2\obj\Debug\net6.0\zws.Test2.pdb

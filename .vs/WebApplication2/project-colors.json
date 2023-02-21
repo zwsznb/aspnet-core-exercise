@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "dcbe8a5e-096b-4713-bc60-91d64fb20e87": {
+      "ProjectGuid": "dcbe8a5e-096b-4713-bc60-91d64fb20e87",
+      "DisplayName": "WebApplication2",
+      "ColorIndex": 0
+    },
+    "2ddbeb92-3a99-4b69-8fc8-bbaa31a982f9": {
+      "ProjectGuid": "2ddbeb92-3a99-4b69-8fc8-bbaa31a982f9",
+      "DisplayName": "zws.Application",
+      "ColorIndex": 1
+    },
+    "9a5a04e3-1bfc-4d8a-907c-41bf60040ab6": {
+      "ProjectGuid": "9a5a04e3-1bfc-4d8a-907c-41bf60040ab6",
+      "DisplayName": "zws.Core",
+      "ColorIndex": 2
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "杂项文件",
+      "ColorIndex": -1
+    },
+    "ad1b4aaa-c155-4a80-812e-89615f96af6d": {
+      "ProjectGuid": "ad1b4aaa-c155-4a80-812e-89615f96af6d",
+      "DisplayName": "zws.Entity",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}

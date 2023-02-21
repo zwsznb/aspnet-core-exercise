@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\zws.Core\zws.Core.csproj" />
+    <ProjectReference Include="..\zws.Test2\zws.Test2.csproj" />
+  </ItemGroup>
+
+</Project>

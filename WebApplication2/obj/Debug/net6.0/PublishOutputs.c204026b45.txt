@@ -1,0 +1,15 @@
+W:\project\aspnet-core-exercise\WebApplication2\bin\Debug\net6.0\publish\WebApplication2.exe
+W:\project\aspnet-core-exercise\WebApplication2\bin\Debug\net6.0\publish\appsettings.Development.json
+W:\project\aspnet-core-exercise\WebApplication2\bin\Debug\net6.0\publish\appsettings.json
+W:\project\aspnet-core-exercise\WebApplication2\bin\Debug\net6.0\publish\WebApplication2.dll
+W:\project\aspnet-core-exercise\WebApplication2\bin\Debug\net6.0\publish\WebApplication2.deps.json
+W:\project\aspnet-core-exercise\WebApplication2\bin\Debug\net6.0\publish\WebApplication2.runtimeconfig.json
+W:\project\aspnet-core-exercise\WebApplication2\bin\Debug\net6.0\publish\WebApplication2.pdb
+W:\project\aspnet-core-exercise\WebApplication2\bin\Debug\net6.0\publish\Microsoft.OpenApi.dll
+W:\project\aspnet-core-exercise\WebApplication2\bin\Debug\net6.0\publish\Swashbuckle.AspNetCore.Swagger.dll
+W:\project\aspnet-core-exercise\WebApplication2\bin\Debug\net6.0\publish\Swashbuckle.AspNetCore.SwaggerGen.dll
+W:\project\aspnet-core-exercise\WebApplication2\bin\Debug\net6.0\publish\Swashbuckle.AspNetCore.SwaggerUI.dll
+W:\project\aspnet-core-exercise\WebApplication2\bin\Debug\net6.0\publish\zws.Application.dll
+W:\project\aspnet-core-exercise\WebApplication2\bin\Debug\net6.0\publish\zws.Core.dll
+W:\project\aspnet-core-exercise\WebApplication2\bin\Debug\net6.0\publish\zws.Application.pdb
+W:\project\aspnet-core-exercise\WebApplication2\bin\Debug\net6.0\publish\zws.Core.pdb

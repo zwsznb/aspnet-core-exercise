@@ -15,8 +15,34 @@ namespace zws.Core.Common.Mvc
             var assembly = Assembly.GetEntryAssembly();
             var assemblies = assembly.GetReferencedAssemblies();
             assemblies.Append<AssemblyName>(assembly.GetName());
+            var list = assemblies.ToList();
+            for (var i = 0; i < assemblies.Length; i++)
+            {
+                if (assemblies[i].FullName.Contains("System") ||
+                    assemblies[i].FullName.Contains("Microsoft") ||
+                    assemblies[i].FullName.Contains("Swashbuckle"))
+                {
+                    list.Remove(assemblies[i]);
+                }
+            }
+            AddController(feature, list.ToArray());
+        }
+
+        private void AddController(ControllerFeature feature, AssemblyName[] assemblies)
+        {
+            if (assemblies.Length == 0)
+            {
+                return;
+            }
             assemblies.ToList().ForEach(assembly =>
             {
+                if (assembly.FullName.Contains("System") ||
+                    assembly.FullName.Contains("Microsoft") ||
+                    assembly.FullName.Contains("Swashbuckle"))
+                {
+                    return;
+                }
+                //递归获取controller
                 var assTemp = Assembly.Load(assembly);
                 assTemp.GetTypes().ToList().ForEach(type =>
                 {
@@ -27,8 +53,11 @@ namespace zws.Core.Common.Mvc
                     }
                     feature.Controllers.Add(type.GetTypeInfo());
                 });
+                var a = assTemp.GetReferencedAssemblies();
+                AddController(feature, a);
             });
         }
+
         public bool IsController(Type type)
         {
             if (!type.IsClass)
